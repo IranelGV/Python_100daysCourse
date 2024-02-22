@@ -2,13 +2,13 @@ I am improving my Python skills by doing the "100 days of Python" online course 
 
 PS: I am not finished with the course yet, these are the projects I have done so far:
 
--Day 1: "Band name generator"
--Day 2: "Tip Calculator"
--Day 3: "Treasure Island"
--Day 4: "Rock Paper Scissors"
--Day 5: "Password Generator"
--Day 6: done on an online platform
--Day 7: "Hangman"
--Day 8: "Caesar Cypher"
--Day 9: "Secret Auction"
+- **Day 1:** "Band name generator"
+Day 2: "Tip Calculator"
+Day 3: "Treasure Island"
+Day 4: "Rock Paper Scissors"
+Day 5: "Password Generator"
+Day 6: done on an online platform
+Day 7: "Hangman"
+Day 8: "Caesar Cypher"
+Day 9: "Secret Auction"
 Day 10: "Calculator"
